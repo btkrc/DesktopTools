@@ -1,0 +1,8 @@
+<RCC>
+  <qresource prefix="DesktopTools">
+    <file>Resources/70BasicIcons-all-06.png</file>
+    <file>Resources/70BasicIcons-all-33.png</file>
+    <file>Resources/zuixiaohua_1.png</file>
+    <file>Resources/1FR3114501-1.jpg</file>
+  </qresource>
+</RCC>
